@@ -1,0 +1,5 @@
+1) Rename this file to .dev.vars
+2) Replace the line below with your OPEN_AI_KEY key
+3) Delete these numbered list points
+
+OPEN_AI_KEY = "sk-proj-abcdefg123456"
